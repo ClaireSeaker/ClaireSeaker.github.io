@@ -1,6 +1,7 @@
  body {
-    font: 400 15px/1.8 Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     color: #777;
+    font-weight: 400;
   }
   h3, h4 {
     margin: 10px 0 30px 0;
@@ -26,7 +27,7 @@
   
   .modal-header, h4, .close {
     background-color: #333;
-    color: #fff !important;
+    color: #ffffff!important;
     text-align: center;
     font-size: 30px;
   }
